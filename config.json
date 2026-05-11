@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "deploying-fastapi-service",
+      "title": "Deploying a FastAPI Service",
+      "description": "Package and run a FastAPI app for production-style deployment with environment-based configuration.",
+      "path": "assignments/deploying-fastapi-service",
+      "dueDate": "2026-05-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements File",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Dockerfile",
+          "file": "Dockerfile",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
